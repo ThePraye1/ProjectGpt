@@ -1,0 +1,63 @@
+body{
+    background-image: url(wall.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: fixed ;
+}
+.logo{
+    font-family: monospace;
+    color:aliceblue;
+    font-size: 45px;
+    float: left;
+}
+nav{
+    color: aliceblue;
+    font-family: monospace;
+    font-size: 25px;
+}
+.px2{
+    border: solid 0.2px aliceblue;
+}
+.menu{
+    text-decoration: none;
+    color: aliceblue;
+    text-align: center;
+}
+main{
+    height: 800px;
+    margin-bottom: 100px;
+    padding: 20px;
+}
+footer{
+    height: 500px;
+}
+.whitetxt{
+    color: aliceblue;
+}
+header{
+    height: 500px;
+}
+.aligntxt{
+    text-align: center;
+}
+.margin-top-20{
+    margin-top: 20px;
+}
+.margin-top-50{
+    margin-top: 50px;
+}
+html{
+    scroll-behavior: smooth;
+    scroll-padding: 10rem;
+}
+#AbtUs{
+    height: 700px;
+    padding-top: 50px;
+    margin-top: 200px;
+}
+.floatright{
+    float: right;
+}
+.floatleft{
+    float: left;
+}
